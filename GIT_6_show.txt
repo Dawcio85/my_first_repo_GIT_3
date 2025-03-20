@@ -1,0 +1,17 @@
+commit 34321467bdf229aecac45a6ef3d58b431bc78163
+Author: Dawid Bielewicz <bieda1985@gmail.com>
+Date:   Thu Mar 20 16:52:12 2025 +0100
+
+    Add README.md file
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..3023b2f
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1,4 @@
++Nazwa przedmiotu: System kontroli wersji
++Nazwa repozytorium: my_first_repo_GIT_3
++Imie i Nazwisko: Dawid Bielewicz
++numer słuchacza: 4926
+\ No newline at end of file

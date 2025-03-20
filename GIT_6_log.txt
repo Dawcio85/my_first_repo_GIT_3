@@ -1,0 +1,29 @@
+commit 45898e821ffe967111f4dffab8a5c2695603f612
+Author: Dawid Bielewicz <bieda1985@gmail.com>
+Date:   Thu Mar 20 21:07:15 2025 +0100
+
+    Add GIT_5_diff.txt file
+
+commit 34321467bdf229aecac45a6ef3d58b431bc78163
+Author: Dawid Bielewicz <bieda1985@gmail.com>
+Date:   Thu Mar 20 16:52:12 2025 +0100
+
+    Add README.md file
+
+commit ea49cfb1e7546bfe89f97b964286c92a54c91eb9
+Author: Dawid Bielewicz <bieda1985@gmail.com>
+Date:   Thu Mar 20 16:44:33 2025 +0100
+
+    Add GIT_4_restore.txt and GIT_4_status3.txt
+
+commit d6d97fd772106eb32175f1afbccb7216dfee7a00
+Author: Dawid Bielewicz <bieda1985@gmail.com>
+Date:   Thu Mar 20 16:23:17 2025 +0100
+
+    Add GIT_4_status1.txt and GIT4_status2.txt files
+
+commit c39c7a3dd79925471b9241bafbeca8915076ed6b
+Author: Dawid Bielewicz <bieda1985@gmail.com>
+Date:   Thu Mar 20 16:18:17 2025 +0100
+
+    Add GIT_1 and GIT_2 files
