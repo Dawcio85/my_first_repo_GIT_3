@@ -1,0 +1,4 @@
+Zastosowanie git do pracy nad wspólną wielautorską książką/publikacją
+ - autorzy mogą niezależnie pracować nad rozdziałami
+ - poszczególne gałęzie mogą być anternatywnymi losami bohaterów
+ 
