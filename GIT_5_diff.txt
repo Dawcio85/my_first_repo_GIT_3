@@ -1,0 +1,4 @@
+Porównanie między commit 7ce8bc i aa48d73 (obecnie HEAD)
+1) Został dodany plik nowy_plik.txt ->  commit "Added nowy_plik.txt)
+2) Do pliku nowy_plik.txt został dodany tekst "hello world" -> commit "Edited nowy_plik.txt"
+3) Został dodany plik drugi_plik.txt -> comit "Added drugi_plik.txt" (Plik podczas commitu zawierał od razu tekst Lorem ipsum"
