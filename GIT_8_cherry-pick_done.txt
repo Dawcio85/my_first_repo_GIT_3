@@ -1,0 +1,20 @@
+* 91ed74c Add GIT_8_cherry-pick.txt and GIT_8_rebase.txt files, brnach test
+* ab7d3ac Add GIT_8_branch.txt, GIT_8_status.txt and GIT_8_stan.txt files"
+*   65c381e Merge branch 'test'
+|\  
+| * 303bb6f Add GIT_8_diff.txt, branch test
+| * 00373b3 Add GIT_8_log.txt file, branch test
+* | e157c62 Add GIT_8_stash_list.txt file
+* | c4e9ad9 Add GIT_7_branch.txt file
+* | f9c5215 Add GIT_7_conflict.txt and solve conflict in README.md
+|\| 
+| * 5432adb Add text to README.md, test branch
+| * 4253ebb Add 3 files to branch test
+* | dfe945f Add text to README.md, main branch
+|/  
+* dc9ccdf Add GIT_6_ files, checking the git log
+* 45898e8 Add GIT_5_diff.txt file
+* 3432146 Add README.md file
+* ea49cfb Add GIT_4_restore.txt and GIT_4_status3.txt
+* d6d97fd Add GIT_4_status1.txt and GIT4_status2.txt files
+* c39c7a3 Add GIT_1 and GIT_2 files
