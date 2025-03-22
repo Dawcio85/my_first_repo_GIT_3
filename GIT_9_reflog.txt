@@ -1,0 +1,41 @@
+e7e06fb HEAD@{0}: commit: Add GIT_9_reset.txt
+4920277 HEAD@{1}: reset: moving to HEAD~1
+4bf3bd1 HEAD@{2}: commit: Add GIT_9_log.txt file
+4920277 HEAD@{3}: commit: Add GIT_8_cherry-pick_done.txt
+91ed74c HEAD@{4}: cherry-pick: Add GIT_8_cherry-pick.txt and GIT_8_rebase.txt files, brnach test
+ab7d3ac HEAD@{5}: checkout: moving from test to main
+5ce0a54 HEAD@{6}: commit: Add GIT_8_cherry-pick.txt and GIT_8_rebase.txt files, brnach test
+303bb6f HEAD@{7}: checkout: moving from main to test
+ab7d3ac HEAD@{8}: rebase (finish): returning to refs/heads/main
+ab7d3ac HEAD@{9}: rebase (squash): Add GIT_8_branch.txt, GIT_8_status.txt and GIT_8_stan.txt files"
+34deb2f HEAD@{10}: rebase (start): checkout HEAD~2
+e7467be HEAD@{11}: commit: Add GIT_8_stan.txt file
+34deb2f HEAD@{12}: commit: Add GIT_8_branch.txt and GIT_8_status.txt files
+65c381e HEAD@{13}: merge test: Merge made by the 'ort' strategy.
+e157c62 HEAD@{14}: checkout: moving from test to main
+303bb6f HEAD@{15}: commit: Add GIT_8_diff.txt, branch test
+00373b3 HEAD@{16}: checkout: moving from main to test
+e157c62 HEAD@{17}: merge test: updating HEAD
+e157c62 HEAD@{18}: checkout: moving from test to main
+00373b3 HEAD@{19}: commit: Add GIT_8_log.txt file, branch test
+5432adb HEAD@{20}: checkout: moving from main to test
+e157c62 HEAD@{21}: reset: moving to e157c62
+b408682 HEAD@{22}: checkout: moving from main to main
+b408682 HEAD@{23}: commit: Add GIT_8_log.txt file, branch test
+e157c62 HEAD@{24}: commit: Add GIT_8_stash_list.txt file
+c4e9ad9 HEAD@{25}: reset: moving to HEAD
+c4e9ad9 HEAD@{26}: commit: Add GIT_7_branch.txt file
+f9c5215 HEAD@{27}: commit (merge): Add GIT_7_conflict.txt and solve conflict in README.md
+dfe945f HEAD@{28}: checkout: moving from test to main
+5432adb HEAD@{29}: commit: Add text to README.md, test branch
+4253ebb HEAD@{30}: checkout: moving from main to test
+dfe945f HEAD@{31}: commit: Add text to README.md, main branch
+dc9ccdf HEAD@{32}: checkout: moving from test to main
+4253ebb HEAD@{33}: commit: Add 3 files to branch test
+dc9ccdf HEAD@{34}: checkout: moving from main to test
+dc9ccdf HEAD@{35}: commit: Add GIT_6_ files, checking the git log
+45898e8 HEAD@{36}: commit: Add GIT_5_diff.txt file
+3432146 HEAD@{37}: commit: Add README.md file
+ea49cfb HEAD@{38}: commit: Add GIT_4_restore.txt and GIT_4_status3.txt
+d6d97fd HEAD@{39}: commit: Add GIT_4_status1.txt and GIT4_status2.txt files
+c39c7a3 HEAD@{40}: commit (initial): Add GIT_1 and GIT_2 files
