@@ -1,9 +1,11 @@
-Nazwa przedmiotu: System kontroli wersji
+# Nazwa przedmiotu: System kontroli wersji
 Nazwa repozytorium: my_first_repo_GIT_3
-Imie i Nazwisko: Dawid Bielewicz
-numer słuchacza: 4926
 
-Praca z gałęziami i rozwiązywanie konfliktów
+**Dawid Bielewicz**
 
-Tym wpisem chcemy spowodować konflikt
+*no: 4926*
 
+1. Sat Mar 22 2025
+2. 20:07:02 CET
+
+`git init `
