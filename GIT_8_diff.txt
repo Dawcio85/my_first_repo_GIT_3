@@ -1,0 +1,53 @@
+diff --git a/GIT_8_log.txt b/GIT_8_log.txt
+new file mode 100644
+index 0000000..fc6775b
+--- /dev/null
++++ b/GIT_8_log.txt
+@@ -0,0 +1,47 @@
++commit 5432adb6b87ac03c7635bb76191dca32aa76972c
++Author: Dawid Bielewicz <bieda1985@gmail.com>
++Date:   Fri Mar 21 20:05:29 2025 +0100
++
++    Add text to README.md, test branch
++
++commit 4253ebb6ec1e11ae810080b3b6d1c149f4b6b610
++Author: Dawid Bielewicz <bieda1985@gmail.com>
++Date:   Fri Mar 21 19:58:59 2025 +0100
++
++    Add 3 files to branch test
++
++commit dc9ccdfa1a6c63e1754e046a03807fa243c5ed19
++Author: Dawid Bielewicz <bieda1985@gmail.com>
++Date:   Thu Mar 20 22:03:32 2025 +0100
++
++    Add GIT_6_ files, checking the git log
++
++commit 45898e821ffe967111f4dffab8a5c2695603f612
++Author: Dawid Bielewicz <bieda1985@gmail.com>
++Date:   Thu Mar 20 21:07:15 2025 +0100
++
++    Add GIT_5_diff.txt file
++
++commit 34321467bdf229aecac45a6ef3d58b431bc78163
++Author: Dawid Bielewicz <bieda1985@gmail.com>
++Date:   Thu Mar 20 16:52:12 2025 +0100
++
++    Add README.md file
++
++commit ea49cfb1e7546bfe89f97b964286c92a54c91eb9
++Author: Dawid Bielewicz <bieda1985@gmail.com>
++Date:   Thu Mar 20 16:44:33 2025 +0100
++
++    Add GIT_4_restore.txt and GIT_4_status3.txt
++
++commit d6d97fd772106eb32175f1afbccb7216dfee7a00
++Author: Dawid Bielewicz <bieda1985@gmail.com>
++Date:   Thu Mar 20 16:23:17 2025 +0100
++
++    Add GIT_4_status1.txt and GIT4_status2.txt files
++
++commit c39c7a3dd79925471b9241bafbeca8915076ed6b
++Author: Dawid Bielewicz <bieda1985@gmail.com>
++Date:   Thu Mar 20 16:18:17 2025 +0100
++
++    Add GIT_1 and GIT_2 files
